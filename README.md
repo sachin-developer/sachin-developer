@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachin-developer
 - 👀 I’m interested in web development
-- 🌱 I Learend React js and working to develop my slef more
+- 🌱 I Learend React js and working to develop my self more
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me sachin.developer.1994@gmail.com
 
